@@ -33,6 +33,6 @@ The rest of the documents can be consulted by yourself.
 | -- | -- |
 | package | action build for release |
 
-## MIT
+## LICENSE
 
-https://github.com/actions-cool/action-js-template/blob/main/LICENSE
+[MIT](https://github.com/actions-cool/action-js-template/blob/main/LICENSE)
