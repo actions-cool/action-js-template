@@ -32,6 +32,8 @@ The rest of the documents can be consulted by yourself.
 | Name | Desc |
 | -- | -- |
 | package | action build for release |
+| format | prettier write |
+| format-check | prettier check |
 
 ## LICENSE
 
