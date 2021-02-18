@@ -11,6 +11,7 @@ A simple javascript template for rapid development of GitHub actions.
 
 ![](https://img.shields.io/github/workflow/status/actions-cool/action-js-template/CI?style=flat-square)
 [![](https://img.shields.io/badge/marketplace-action--js--template-blueviolet?style=flat-square)](https://github.com/marketplace/actions/action-js-template)
+[![](https://img.shields.io/github/v/release/actions-cool/action-js-template?style=flat-square&color=orange)](https://github.com/actions-cool/action-js-template/releases)
 
 ## 🚀 How to use?
 
