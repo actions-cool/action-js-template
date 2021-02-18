@@ -9,7 +9,8 @@
 A simple javascript template for rapid development of GitHub actions.
 </div>
 
-![CI](https://github.com/actions-cool/action-js-template/workflows/CI/badge.svg)
+![](https://img.shields.io/github/workflow/status/actions-cool/action-js-template/CI?style=flat-square)
+[![](https://img.shields.io/badge/marketplace-action--js--template-blueviolet?style=flat-square)](https://github.com/marketplace/actions/action-js-template)
 
 ## 🚀 How to use?
 
@@ -34,6 +35,10 @@ The rest of the documents can be consulted by yourself.
 | package | action build for release |
 | format | prettier write |
 | format-check | prettier check |
+
+## Changelog
+
+[CHANGELOG](./CHANGELOG.md)
 
 ## LICENSE
 
