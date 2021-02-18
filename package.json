@@ -6,8 +6,8 @@
   "main": "src/main.js",
   "scripts": {
     "package": "ncc build",
-    "format": "prettier --write **/*.js",
-    "format-check": "prettier --check **/*.js"
+    "format": "prettier --write src/*.js",
+    "format-check": "prettier --check src/*.js"
   },
   "repository": {
     "type": "git",

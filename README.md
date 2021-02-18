@@ -42,4 +42,4 @@ The rest of the documents can be consulted by yourself.
 
 ## LICENSE
 
-[MIT](https://github.com/actions-cool/action-js-template/blob/main/LICENSE)
+[MIT](./LICENSE)
