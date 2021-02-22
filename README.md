@@ -37,6 +37,17 @@ The rest of the documents can be consulted by yourself.
 | format | prettier write |
 | format-check | prettier check |
 
+## ⚡ Feedback
+
+You are very welcome to try it out and put forward your comments. You can use the following methods:
+
+- Report bugs or consult with [Issue](https://github.com/actions-cool/action-js-template/issues)
+- Submit [Pull Request](https://github.com/actions-cool/action-js-template/pulls) to improve the code of `action-js-template`
+
+也欢迎加入 钉钉交流群
+
+![](https://github.com/actions-cool/resources/blob/main/dingding.jpeg?raw=true)
+
 ## Changelog
 
 [CHANGELOG](./CHANGELOG.md)
