@@ -4,8 +4,7 @@ description: 'A simple javascript template for rapid development of GitHub actio
 author: 'xrkffgg'
 
 branding:
-  # https://feathericons.com/
-  # e.g. https://haya14busa.github.io/github-action-brandings/
+  # https://actions-cool.github.io/github-action-branding/
   icon: 'file'
   color: 'blue'
 
